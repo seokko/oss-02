@@ -24,3 +24,12 @@
 * Conflict:두 사람이 코드 내 하나의 구간을 동시에 수정하는 경우
 * Revert or reversion:이미 수행된 commit을 undo
 * Lock:특정 파일이나 디렉토리에 대한 변화를 제외하는 방법
+***
+### Bug Tracking
+#### 버그 트래킹(Bug Tracking)의 정의
+* 버그 리포트를 추척 뿐만 아니라
+* 새로운 특징을 요청, one-time 작업, 자발적인 패치 까지 포함
+#### 버그 트래커는 다양하게 불리움
+* issue tracker, ticker tracker, defect tracker, artifact tracker, request tracker
+#### Ticket은 tracker 데이터베이스 내 아이템을 지칭
+* 버그, 특징에 대한 발견, 진단, 토의, 해결에 대한 진행중인 기록
